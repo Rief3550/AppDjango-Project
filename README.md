@@ -1,2 +1,2 @@
 # AppDjango-Project
-Proyecto Django 
+Proyecto Django Pagina Web "Proyecto Final" 
